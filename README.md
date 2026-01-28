@@ -32,7 +32,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -40,9 +40,16 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Khader&layout=compact&theme=radical&hide_border=true)
 
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled-Khader&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Khaled-Khader&theme=radical)
 
 
+
+
+## 📚 Currently Learning
+- Spring Security & Best Practices  
+- SaaS architecture  
+- Advanced API Testing & Automation  
+- Cloud Deployment Fundamentals  
 
 
 
