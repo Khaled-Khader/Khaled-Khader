@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Khaled Khader
-
-🎓 Aspiring Full Stack Web Developer  
-💻 Passionate about API Design, System Design, and Building Scalable Applications  
 
 ---
 
