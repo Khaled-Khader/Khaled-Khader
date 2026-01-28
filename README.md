@@ -40,7 +40,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Khader&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Khader&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Khaled-Khader&theme=radical)
+
 
 
 
